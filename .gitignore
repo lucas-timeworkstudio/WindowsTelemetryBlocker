@@ -26,3 +26,41 @@ desktop.ini
 # Ignore compiled binaries/scripts (if build system added later)
 bin/
 out/
+
+# Windows system files
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell files
+*.ps1xml
+*.psc1
+*.psd1
+*.psm1
+*.pssc
+*.psrc
+*.ps1.config
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+logs/
+temp/
+
+# IDE and editor files
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*_backup
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
