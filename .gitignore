@@ -1,0 +1,28 @@
+# PowerShell artifacts
+*.ps1~
+*.psm1~
+*.psd1~
+*.log
+*.bak
+*.tmp
+
+# Local module output
+modules/*.log
+
+# VSCode project settings
+.vscode/
+*.code-workspace
+
+# System files (Windows/macOS)
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# GitHub Actions cache or artifacts (if used later)
+.github/workflows/*.log
+*.coverage
+*.testresult
+
+# Ignore compiled binaries/scripts (if build system added later)
+bin/
+out/
