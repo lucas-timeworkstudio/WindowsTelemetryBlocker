@@ -55,9 +55,8 @@ A lightweight, open-source toolkit to disable Windows telemetry and improve priv
 | **apps.ps1** | Disables background apps, removes bloatware (optional), and disables Widgets/News/OneDrive |
 | **misc.ps1** | Disables Wi-Fi Sense, Timeline/Activity History, and cloud clipboard |
 
-## ⚠️ Warning
-
-This script requires administrative privileges to modify system settings. Always run as administrator.
+> [!WARNING]
+> This script requires administrative privileges to modify system settings. Always run as administrator.
 
 ## 🤝 Contributing
 
