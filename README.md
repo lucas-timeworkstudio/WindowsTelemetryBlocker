@@ -3,8 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PowerShell](https://img.shields.io/badge/PowerShell-%3E%3D5.1-blue)](https://github.com/PowerShell/PowerShell)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue)](https://www.microsoft.com/windows)
-[![Version](https://img.shields.io/github/v/release/Lucas-timeworkstudio/WindowsTelemetryBlocker?include_prereleases&sort=semver)](https://github.com/Lucas-timeworkstudio/WindowsTelemetryBlocker/releases)
-[![Downloads](https://img.shields.io/github/downloads/Lucas-timeworkstudio/WindowsTelemetryBlocker/total)](https://github.com/Lucas-timeworkstudio/WindowsTelemetryBlocker/releases)
 [![Issues](https://img.shields.io/github/issues/Lucas-timeworkstudio/WindowsTelemetryBlocker)](https://github.com/Lucas-timeworkstudio/WindowsTelemetryBlocker/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/Lucas-timeworkstudio/WindowsTelemetryBlocker)](https://github.com/Lucas-timeworkstudio/WindowsTelemetryBlocker/pulls)
 [![Last Commit](https://img.shields.io/github/last-commit/Lucas-timeworkstudio/WindowsTelemetryBlocker)](https://github.com/Lucas-timeworkstudio/WindowsTelemetryBlocker/commits/main)
