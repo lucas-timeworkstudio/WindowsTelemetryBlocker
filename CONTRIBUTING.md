@@ -8,7 +8,7 @@
 1. **Fork the Repository**: Start by forking the repository to your GitHub account.
 2. **Clone Your Fork**: Clone your fork locally to make changes.
    ```bash
-   git clone https://github.com/Lucas-timeworkstudio/WindowsTelemetryBlocker.git
+   git clone https://github.com/DuckyD3v/WindowsTelemetryBlocker.git
    ```
 3. **Make Changes**: Edit the files as needed. Ensure your changes are well-documented and follow the existing code style.
 
